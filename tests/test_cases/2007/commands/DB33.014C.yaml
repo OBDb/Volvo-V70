@@ -10,5 +10,8 @@ test_cases:
     TAC_PCT: 12.54902
   response: 18DAF11003414C20
 - expected_values:
+    TAC_PCT: 16.07843
+  response: 18DAF11003414C29
+- expected_values:
     TAC_PCT: 18.82353
   response: 18DAF11003414C30

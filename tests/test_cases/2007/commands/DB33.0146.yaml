@@ -5,3 +5,8 @@ test_cases:
   response: |-
     18DAF1180341462D
     18DAF1100341462D
+- expected_values:
+    AAT: 15
+  response: |-
+    18DAF11803414637
+    18DAF11003414637
