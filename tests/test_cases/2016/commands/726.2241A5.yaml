@@ -1,0 +1,5 @@
+command_id: 726.2241A5
+test_cases:
+- expected_values:
+    VOLVO_BAT_CHG_BALANCE_AH: 12793
+  response: 72E056241A531F9

@@ -1,0 +1,5 @@
+command_id: 726.22C150
+test_cases:
+- expected_values:
+    VOLVO_BOOT_LID_SENS: 3
+  response: 72E0762C150C0000000

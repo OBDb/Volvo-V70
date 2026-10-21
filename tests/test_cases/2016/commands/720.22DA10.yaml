@@ -1,0 +1,7 @@
+command_id: 720.22DA10
+test_cases:
+- expected_values:
+    VOLVO_ACC_SETSPEED: 0
+  response: |-
+    728100862DA10010000
+    7282100000000000000

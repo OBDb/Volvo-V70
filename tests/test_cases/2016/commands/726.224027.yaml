@@ -1,0 +1,5 @@
+command_id: '726.224027'
+test_cases:
+- expected_values:
+    VOLVO_BAT_OPERATION_TIME: 2327
+  response: '72E056240270917'

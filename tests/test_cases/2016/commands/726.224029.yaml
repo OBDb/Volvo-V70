@@ -1,0 +1,5 @@
+command_id: '726.224029'
+test_cases:
+- expected_values:
+    VOLVO_BAT_T: 14
+  response: '72E0462402936'

@@ -1,0 +1,5 @@
+command_id: 726.22EED6
+test_cases:
+- expected_values:
+    VOLVO_DOWNTIME: 25.5
+  response: 72E0462EED6FF

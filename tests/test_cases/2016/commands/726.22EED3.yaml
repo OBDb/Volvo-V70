@@ -1,0 +1,5 @@
+command_id: 726.22EED3
+test_cases:
+- expected_values:
+    VOLVO_SECONDARY_BAT_CHG: 38
+  response: 72E0562EED30026

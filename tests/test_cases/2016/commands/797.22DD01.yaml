@@ -1,0 +1,8 @@
+command_id: 797.22DD01
+test_cases:
+- expected_values:
+    VOLVO_ODO_SAS: 288519
+  response: 7280662DD01046707
+- expected_values:
+    VOLVO_ODO_SAS: 288519
+  response: 72E0662DD01046707

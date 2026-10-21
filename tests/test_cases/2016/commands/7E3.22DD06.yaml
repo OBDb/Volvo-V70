@@ -1,0 +1,5 @@
+command_id: 7E3.22DD06
+test_cases:
+- expected_values:
+    VOLVO_POWER_MODE_MS_CAN_7E3: 199
+  response: 72E0462DD06C7

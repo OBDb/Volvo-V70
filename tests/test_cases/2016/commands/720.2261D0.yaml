@@ -1,0 +1,5 @@
+command_id: 720.2261D0
+test_cases:
+- expected_values:
+    VOLVO_DIM_FLI_2_2_EJECTOR: 17.8
+  response: 728056261D000B2

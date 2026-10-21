@@ -1,0 +1,5 @@
+command_id: 730.22413D
+test_cases:
+- expected_values:
+    VOLVO_SERVO_SUP_V: 14.8
+  response: 7380462413D94

@@ -1,0 +1,5 @@
+command_id: '726.224025'
+test_cases:
+- expected_values:
+    VOLVO_QUIESCENT_CURRENT: -15
+  response: 72E0562402507B2

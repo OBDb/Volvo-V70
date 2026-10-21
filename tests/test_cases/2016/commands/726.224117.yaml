@@ -1,0 +1,5 @@
+command_id: '726.224117'
+test_cases:
+- expected_values:
+    VOLVO_FLI_SENS: 2.19463
+  response: 72E0562411701C1
