@@ -1,0 +1,5 @@
+command_id: '726.224090'
+test_cases:
+- expected_values:
+    VOLVO_BAT_CHG_AMPS: 9.3
+  response: '72E056240902090'

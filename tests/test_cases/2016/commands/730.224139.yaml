@@ -1,0 +1,5 @@
+command_id: '730.224139'
+test_cases:
+- expected_values:
+    VOLVO_SERVO_PMP_ENG_POWER: 18
+  response: '7380462413924'

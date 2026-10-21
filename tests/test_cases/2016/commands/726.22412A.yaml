@@ -1,0 +1,5 @@
+command_id: 726.22412A
+test_cases:
+- expected_values:
+    VOLVO_TWILIGHT_SENS: 978
+  response: 72E0562412A03D2

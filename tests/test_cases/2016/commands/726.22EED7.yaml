@@ -1,0 +1,5 @@
+command_id: 726.22EED7
+test_cases:
+- expected_values:
+    VOLVO_SECONDARY_BAT_V_AVG: 12.9
+  response: 72E0462EED781

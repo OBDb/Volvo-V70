@@ -1,0 +1,5 @@
+command_id: 7E3.22DD04
+test_cases:
+- expected_values:
+    VOLVO_CAR_T_MS_CAN_7E3: 15
+  response: 7280462DD0437

@@ -1,0 +1,5 @@
+command_id: 726.22EED4
+test_cases:
+- expected_values:
+    VOLVO_SECONDARY_BAT_V_LATEST: 12.5
+  response: 72E0462EED47D

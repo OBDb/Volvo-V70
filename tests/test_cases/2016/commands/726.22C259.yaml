@@ -1,0 +1,5 @@
+command_id: 726.22C259
+test_cases:
+- expected_values:
+    VOLVO_CENTRAL_LOCK: 0
+  response: 72E0462C25900

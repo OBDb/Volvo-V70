@@ -1,0 +1,5 @@
+command_id: 730.22413C
+test_cases:
+- expected_values:
+    VOLVO_SERVO_PMP_SPD: 2560
+  response: 7380462413C80

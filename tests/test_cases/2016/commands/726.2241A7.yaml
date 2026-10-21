@@ -1,0 +1,5 @@
+command_id: 726.2241A7
+test_cases:
+- expected_values:
+    VOLVO_BAT_MANAGEMENT_SENS: 0
+  response: 72E076241A700000000

@@ -1,0 +1,5 @@
+command_id: 726.22EED5
+test_cases:
+- expected_values:
+    VOLVO_SECONDARY_BAT_NEEDED: 240
+  response: 72E0562EED500F0

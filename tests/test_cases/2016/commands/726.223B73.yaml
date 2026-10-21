@@ -1,0 +1,5 @@
+command_id: 726.223B73
+test_cases:
+- expected_values:
+    VOLVO_REAR_AXLE_SENS: 2.275
+  response: 72E04623B735B

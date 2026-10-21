@@ -1,0 +1,5 @@
+command_id: 726.22402A
+test_cases:
+- expected_values:
+    VOLVO_BAT_V_726: 14.9
+  response: 72E0462402AB2
